@@ -1,0 +1,3 @@
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19752	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1709230253:h3:y:1706638208:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:fonts.googleapis.com:443:.:^partitionKey=%28https%2Ckali.org%29:3	0	19752	https:fonts.googleapis.com:443:fonts.googleapis.com:443::n:1709230244:h3:y:1706638208:n:^partitionKey=%28https%2Ckali.org%29:|n:y:
+https:fonts.gstatic.com:443:.:^partitionKey=%28https%2Ckali.org%29:3	0	19752	https:fonts.gstatic.com:443:fonts.gstatic.com:443::n:1709230244:h3:y:1706638208:n:^partitionKey=%28https%2Ckali.org%29:|n:y:

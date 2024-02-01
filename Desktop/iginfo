@@ -1,0 +1,89 @@
+WhatWeb report for http://instagram.com
+Status    : 301 Moved Permanently
+Title     : <None>
+IP        : 163.70.132.174
+Country   : FRANCE, FR
+
+Summary   : HTTPServer[proxygen-bolt], RedirectLocation[https://instagram.com/]
+
+Detected Plugins:
+[ HTTPServer ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : proxygen-bolt (from server string)
+
+[ RedirectLocation ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : https://instagram.com/ (from location)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Location: https://instagram.com/
+	Content-Type: text/plain
+	Server: proxygen-bolt
+	Date: Tue, 30 Jan 2024 19:58:45 GMT
+	Connection: close
+	Content-Length: 0
+	
+WhatWeb report for https://instagram.com/
+Status    : 301 Moved Permanently
+Title     : <None>
+IP        : 163.70.132.174
+Country   : FRANCE, FR
+
+Summary   : Cookies[ps_l,ps_n], HttpOnly[ps_l,ps_n], RedirectLocation[https://www.instagram.com/], Strict-Transport-Security[max-age=15552000], UncommonHeaders[x-fb-debug,alt-svc]
+
+Detected Plugins:
+[ Cookies ]
+	Display the names of cookies in the HTTP headers. The 
+	values are not returned to save on space. 
+
+	String       : ps_l
+	String       : ps_n
+
+[ HttpOnly ]
+	If the HttpOnly flag is included in the HTTP set-cookie 
+	response header and the browser supports it then the cookie 
+	cannot be accessed through client side script - More Info: 
+	http://en.wikipedia.org/wiki/HTTP_cookie 
+
+	String       : ps_l,ps_n
+
+[ RedirectLocation ]
+	HTTP Server string location. used with http-status 301 and 
+	302 
+
+	String       : https://www.instagram.com/ (from location)
+
+[ Strict-Transport-Security ]
+	Strict-Transport-Security is an HTTP header that restricts 
+	a web browser from accessing a website without the security 
+	of the HTTPS protocol. 
+
+	String       : max-age=15552000
+
+[ UncommonHeaders ]
+	Uncommon HTTP server headers. The blacklist includes all 
+	the standard headers and many non standard but common ones. 
+	Interesting but fairly common headers should have their own 
+	plugins, eg. x-powered-by, server and x-aspnet-version. 
+	Info about headers can be found at www.http-stats.com 
+
+	String       : x-fb-debug,alt-svc (from headers)
+
+HTTP Headers:
+	HTTP/1.1 301 Moved Permanently
+	Set-Cookie: ps_l=0; expires=Wed, 05-Mar-2025 19:58:49 GMT; Max-Age=34560000; path=/; domain=.instagram.com; secure; httponly; SameSite=Lax
+	Set-Cookie: ps_n=0; expires=Wed, 05-Mar-2025 19:58:49 GMT; Max-Age=34560000; path=/; domain=.instagram.com; secure; httponly
+	Location: https://www.instagram.com/
+	Strict-Transport-Security: max-age=15552000
+	Content-Type: text/html; charset="utf-8"
+	X-FB-Debug: kkHEeiQik+PrCwLM11rjoQxd/uFN6RKqgTYvQMTXDThUNy4tvShERe6x1eVR1QWCBJKnerBJhBNcQ4w7aPycDw==
+	Date: Tue, 30 Jan 2024 19:58:49 GMT
+	Alt-Svc: h3=":443"; ma=86400
+	Connection: close
+	Content-Length: 0
+	

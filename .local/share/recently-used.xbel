@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/blanko/Desktop/file1.txt" added="2024-01-30T03:07:59.523048Z" modified="2024-01-30T03:08:05.593612Z" visited="2024-01-30T03:07:59.523049Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-01-30T03:08:05.593607Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Desktop/sherlock/requirements.txt" added="2024-01-31T00:28:17.625474Z" modified="2024-01-31T01:26:38.425523Z" visited="2024-01-31T00:28:17.625475Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T00:28:17.625478Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-01-31T01:26:38.425520Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Desktop/sherlock/sherlock" added="2024-01-31T00:37:46.832281Z" modified="2024-01-31T00:41:26.773037Z" visited="2024-01-31T00:37:46.832282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T00:41:26.773032Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram" added="2024-01-31T20:48:04.737182Z" modified="2024-01-31T22:49:40.309188Z" visited="2024-01-31T20:48:04.737183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T22:49:40.309184Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram/config" added="2024-01-31T20:48:07.341259Z" modified="2024-01-31T22:49:42.003648Z" visited="2024-01-31T20:48:07.341260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T22:49:42.003645Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram/config/credentials.ini" added="2024-01-31T20:48:12.995367Z" modified="2024-01-31T21:49:09.649736Z" visited="2024-01-31T20:48:12.995368Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 2:24;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T21:48:43.232813Z" count="5"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-01-31T21:49:09.649731Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram/config/settings.json" added="2024-01-31T20:51:38.354527Z" modified="2024-01-31T22:50:18.591841Z" visited="2024-01-31T20:51:38.354528Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:1;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-01-31T22:50:18.591838Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T22:49:43.582102Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram/requirements.txt" added="2024-01-31T21:34:36.243464Z" modified="2024-01-31T21:34:50.564322Z" visited="2024-01-31T21:34:36.243465Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-01-31T21:34:50.564318Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2024-01-31T21:48:53.430064Z" modified="2024-02-01T14:38:56.816851Z" visited="2024-01-31T21:48:53.430065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T14:38:56.816848Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram/src" added="2024-01-31T22:05:52.348608Z" modified="2024-01-31T22:05:52.348614Z" visited="2024-01-31T22:05:52.348609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-01-31T22:05:52.348611Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Osintgram/src/Osintgram.py" added="2024-01-31T22:05:58.537831Z" modified="2024-01-31T22:10:02.605332Z" visited="2024-01-31T22:05:58.537832Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 60:9;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2024-01-31T22:10:02.605331Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Desktop" added="2024-02-01T14:38:44.831758Z" modified="2024-02-01T14:38:44.831769Z" visited="2024-02-01T14:38:44.831760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T14:38:44.831764Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Documents" added="2024-02-01T14:38:47.810601Z" modified="2024-02-01T17:13:58.638141Z" visited="2024-02-01T14:38:47.810604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T17:13:58.638137Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Music" added="2024-02-01T14:38:49.408242Z" modified="2024-02-01T14:38:49.408257Z" visited="2024-02-01T14:38:49.408243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T14:38:49.408249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Pictures" added="2024-02-01T14:38:50.438559Z" modified="2024-02-01T14:38:50.438571Z" visited="2024-02-01T14:38:50.438561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T14:38:50.438565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Videos" added="2024-02-01T14:38:51.683734Z" modified="2024-02-01T14:38:51.683741Z" visited="2024-02-01T14:38:51.683736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T14:38:51.683738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blanko/Downloads" added="2024-02-01T14:38:52.802924Z" modified="2024-02-01T17:13:53.038753Z" visited="2024-02-01T14:38:52.802926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-02-01T17:13:53.038750Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

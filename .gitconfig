@@ -1,0 +1,6 @@
+[url "https://github.com/"]
+	insteadOf = git://github.com/
+[user]
+	email = donblanko
+[http]
+	sslVerify = true
